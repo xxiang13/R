@@ -1,3 +1,11 @@
+########################################################
+# author: Xiang Li (xxiang13@gmail.com)                #
+# March 7 2016                                         #
+# Code Reference:                                      #
+# http://shiny.rstudio.com/gallery/kmeans-example.html #
+# http://shiny.rstudio.com/gallery/file-upload.html    #
+########################################################
+
 shinyUI(pageWithSidebar(
   headerPanel('K-Means Clustering'),
   sidebarPanel(

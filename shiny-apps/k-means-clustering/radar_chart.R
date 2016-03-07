@@ -1,3 +1,8 @@
+#########################################
+# author: Xiang Li (xxiang13@gmail.com) #
+# March 7 2016                          #
+#########################################
+
 radart.chart = function(fit,clus_toview = c(1,2,3)){
   library(fmsb)
   n_clusters = nrow(fit$centers[clus_toview,])

@@ -1,3 +1,9 @@
+#########################################
+# author: Xiang Li (xxiang13@gmail.com) #
+# March 7 2016                          #
+#########################################
+
+
 profile.clusters.v2 = function(fit,vars_toProfile,data){
 
   profiling = c()

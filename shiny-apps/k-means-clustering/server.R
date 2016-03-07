@@ -1,3 +1,11 @@
+########################################################
+# author: Xiang Li (xxiang13@gmail.com)                #
+# March 7 2016                                         #
+# Code Reference:                                      #
+# http://shiny.rstudio.com/gallery/kmeans-example.html #
+# http://shiny.rstudio.com/gallery/file-upload.html    #
+########################################################
+
 palette(c("#E41A1C", "#377EB8", "#4DAF4A", "#984EA3",
           "#FF7F00", "#FFFF33", "#A65628", "#F781BF", "#999999"))
 shiny.maxRequestSize=100*1024^2

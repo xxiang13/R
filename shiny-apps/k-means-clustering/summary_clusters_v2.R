@@ -1,3 +1,8 @@
+#########################################
+# author: Xiang Li (xxiang13@gmail.com) #
+# March 7 2016                          #
+#########################################
+
 
 summary.clusters = function(data,fit,vars_toSummary){
 
