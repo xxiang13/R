@@ -1,2 +1,2 @@
 # R
-Data Analysis, Machine Learning and Shinny Apps in R
+Data Analysis, Machine Learning and Shiny Apps in R
